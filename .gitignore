@@ -1,0 +1,6 @@
+database/embeddings/*
+database/images/*
+database/metadata.json
+**/.DS_Store
+venv
+testing/*
