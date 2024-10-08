@@ -4,3 +4,4 @@ database/metadata.json
 **/.DS_Store
 venv
 testing/*
+**/__pycache__
