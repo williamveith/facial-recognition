@@ -5,3 +5,6 @@ database/metadata.json
 venv
 testing/*
 **/__pycache__
+**.npy
+homomorphic/encrypted_embeddings
+homomorphic/encrypted_settings

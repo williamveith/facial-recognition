@@ -4,6 +4,10 @@ from image_handler import get_image_files
 from pathlib import Path
 from represent_faces import get_vector
 
+"""
+Closest match: Hunter Boon with distance 0.39313323365644914, file: 4.png
+"""
+
 def cosine_distance(A, B):
     dot_product = np.dot(A, B)
     norm_A = np.linalg.norm(A)
